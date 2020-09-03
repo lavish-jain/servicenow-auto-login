@@ -1,0 +1,14 @@
+{
+    "instances": [
+        {
+            "url": "https://<service-now-instance>.com",
+            "username": "sample_user",
+            "password": "pass123"
+        },
+        {
+            "url": "https://<another-service-now-instance>.com",
+            "username": "sample_user2",
+            "password": "foobar"
+        }
+    ]
+}
